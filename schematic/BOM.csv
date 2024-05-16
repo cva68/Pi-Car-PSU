@@ -1,0 +1,16 @@
+Reference,Qty,Value
+"C1, C2, C3",3,15uF 50VDC Electrolytic
+"C4, C7",2,0.01uF 50VDC Ceramic
+"C5, C6",2,180uF 16VDC Electrolytic
+D1,1,1N5819
+"D2, D3",2,1N4148
+J1,1,3x Pin Header
+J2,1,3x Pin Header
+L1,1,100uH
+R1,1,27k
+"R2, R3",2,12k
+R4,1,22k
+R5,1,4k7
+R6,1,2k2
+U1,1,LM2678T-ADJ
+U2,1,ATtiny85-20P
