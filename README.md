@@ -10,5 +10,5 @@ ON/OFF pin of the step-down converter, but this should be functionally identical
 
 ## Setup
 - Construct the circuit: as described by the schematic and BOM in the schematic folder
-- Flash the micrcrocontroller: I used the Arduino IDE for this, example code can be found in src.
-- Create manager service for Raspberry Pi: A script that starts on boot should be created to watch for the ignition signal to fall low, then shutdown.
+- Flash the micrcrocontroller: TO DO - Add source code
+- Create manager service for Raspberry Pi: A script that starts on boot should be created to watch for the ignition signal to fall low, then shutdown. TO DO - Add script.
